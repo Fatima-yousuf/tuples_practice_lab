@@ -74,6 +74,9 @@ for i in range(len(my_y)):
 ```
 ### Challenges:
 -A challenge I faced was understanding how the fractional part of a number works.
+
 -I also learned the importance of separating headings from code sections to keep the assignment organized and readable.
+
 -Practicing tuples helped me understand when it is best to use immutable data versus mutable data.
+
 
